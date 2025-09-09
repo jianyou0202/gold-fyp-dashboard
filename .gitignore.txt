@@ -1,0 +1,62 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------
+# Jupyter / Notebook
+# -----------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# -----------------------
+# IDEs / Editors
+# -----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# OS / System Files
+# -----------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows cache & temp files
+AppData/
+$RECYCLE.BIN/
+*.lnk
+
+# -----------------------
+# Streamlit
+# -----------------------
+.streamlit/
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+	
